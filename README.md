@@ -13,6 +13,7 @@ A modern Flutter-based mobile application utilizing the latest mobile developmen
 
 1. Install dependencies:
 ```bash
+flutter clean
 flutter pub get
 ```
 

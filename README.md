@@ -103,6 +103,9 @@ flutter build apk --release
 
 # For iOS
 flutter build ios --release
+
+flutter build apk --split-per-abi
+flutter build appbundle
 ```
 
 ## 🙏 Acknowledgments
